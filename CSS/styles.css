@@ -1,0 +1,76 @@
+.spec {
+  color: pink;
+  font-weight: bold;
+  font-size: 34px;
+}
+
+.center {
+  text-align: right;
+}
+
+.panel{
+  margin: 10px;
+}
+
+.panel-title {
+  font-size: 36px;
+  background-color: pink;
+}
+
+.jumbotron {
+  background-color: grey;
+  margin: 30px;
+  border: 2px solid lime;
+}
+
+.well {
+  background-color: grey;
+  border: 4px solid pink;
+  margin: 10px;
+}
+
+p {
+  font-size: 20px;
+}
+
+h2 {
+  font-size: 36px;
+  color: pink;
+  text-align: center;
+}
+
+h3 {
+  font-size: 30px;
+  text-align: left;
+}
+
+li {
+  font-size: 16px;
+}
+
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+}
+
+img {
+  float: left;
+  border: 2px solid lime;
+  padding: 10px;
+  background-color: pink;
+  margin: 4px;
+  border-radius: 20%;
+  overflow: hidden;
+}
+
+ul {
+  list-style-type: none; text-align: right;
+ }
+
+#second {
+  text-align: center;
+}
+
+#white {
+  color: white;
+}
