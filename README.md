@@ -10,10 +10,8 @@ _This is an HTML site, using basic HTML elements, linked to Bootstrap and CSS st
 
 ## Setup/Installation Requirements
 
-* _Go to http://htmlpreview.github.com/_
-* _Input full index.html link from the github repository (That link can be found under https://github.com/karlambuckner/Portfolio/tree/master/Desktop/Portfolio)_
-* _OR clone the repository_
-* _Open in new server_
+* Open link in browser:
+_https://karlambuckner.github.io/Portfolio/_
 
 
 ## Known Bugs
