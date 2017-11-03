@@ -1,0 +1,22 @@
+{
+  "name": "portfolio",
+  "description": "",
+  "main": "gulpfile.js",
+  "authors": [
+    "Karla Buckner <kmb2662@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/karlambuckner/",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "bootstrap": "^3.3.7",
+    "moment": "^2.19.1"
+  }
+}

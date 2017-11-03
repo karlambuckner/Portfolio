@@ -1,18 +1,19 @@
 # _Portfolio_
 
-#### _Mainpage to my personal programming portfolio. May 12, 2017._
+#### _Mainpage to my personal programming portfolio. Nov 3, 2017._
 
 #### By _**Karla Buckner**_
 
 ## Description
 
-_This is an HTML site, using basic HTML elements, linked to Bootstrap and CSS styling elements. It has an "About Me" section as well as links to my github pages._
+_This is a portfolio of my work done at Epicodus._
 
 ## Setup/Installation Requirements
 
-* Open link in browser:
-_https://karlambuckner.github.io/Portfolio/_
-
+* Clone the repository
+* cd into repository
+* npm and bower install
+* gulp serve
 
 ## Known Bugs
 
@@ -25,8 +26,9 @@ _For support contact:
 
 ## Technologies Used
 
-_Bootstrap
-Markdown_
+_HTML
+CSS
+JavaScript_
 
 ### License
 
